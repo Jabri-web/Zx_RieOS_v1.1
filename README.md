@@ -1,3 +1,5 @@
+#file=README.md
+#repo= Zx_RieOS_v1.1
 # Zx_RieOS v1.1
 
 <div align="center">
