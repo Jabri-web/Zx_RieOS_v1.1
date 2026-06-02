@@ -14,7 +14,6 @@
 
 **Research Focus:** Zx Function & Millennium Problems  
 **مجال البحث:** دالة Zx ومسائل الألفية
-[![🌐 Visit GitHub Profile](https://img.shields.io/badge/🌐_Visit_GitHub_Profile-6ae3ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jabri-web)
 
 [![Visit Profile](https://img.shields.io/badge/Visit-GitHub%20Profile-6ae3ff?style=for-the-badge&logo=github)](https://github.com/Jabri-web)
 
