@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="Jabri_photo.png" width="140" height="140" style="border-radius:50%; border:4px solid #6ae3ff; object-fit:cover;">
+<img src="/Image/Jabri-photo.png" width="140" height="140" style="border-radius:50%; border:4px solid #6ae3ff; object-fit:cover;">
 
 # Eng. Abdulla Mohammed Nasser Al-Jabri
 ### م. عبدالله محمد ناصر الجبري
@@ -71,7 +71,7 @@ This repo unifies three kernels into one zero-parameter TOE:
 | **C** | Al-Jabri C Kernel | Spacetime = Written Event. G_munu is line 5 of Z(x) code |
 | **A** | Al-Jabri A Kernel | Locked Coordinates. Dark Energy from t_5 = 32.935 |
 
-![Zx Universe](Zx_Jabri_Universe.png)  
+![Zx Universe](/Image/Zx_Jabri_Universe.png)  
 *Figure 8: All physical law emerges from the Z(x) field. Zeros to Spacetime to Matter*  
 *Run: [Button pic1](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic1)*
 
@@ -88,44 +88,44 @@ This repo unifies three kernels into one zero-parameter TOE:
 
 ![Spacetime Wells](Zx_Spacetime_Wells.png)  
 *Figure 1: Well 5 at gamma_5=32.935062 gives Z'(x)=0 which gives Dark Energy w = -1.03*  
-*Run: [Button pic2](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic2)*
+*Run: [Button pic2](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/Python/blob/main/Zx_all.ipynb?target=pic2)*
 
 ## 3. Hubble Tension Solution: JR = infinity at gamma_5
-![Universe Now](Zx_Universe_now.png)  
+![Universe Now](/Image_Zx_Universe_now.png)  
 *Figure 3: H(z) from Z(x) vs DESI 2024, Planck 2018, SH0ES 2020. No fitting.*  
-*Run: [Button pic3](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic3)*
+*Run: [Button pic3](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/Python/blob/main/Zx_all.ipynb?target=pic3)*
 
 **Result:** G_eff = G_N/Z'(x) gives H_0 = 67.4 Planck and 73.0 SH0ES. **Tension = 0.0 sigma**
 
 ## 4. Planck Hierarchy and Fine Structure
-![Periodic Hierarchy](Zx_Periodic_Hierarchy.png)  
+![Periodic Hierarchy](/Image/Zx_Periodic_Hierarchy.png)  
 *Figure 4: Only first 5 zeros contribute above L_p. Explains G/G_F ~ 10^-33 naturally*  
 *Run: [Button pic4](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic4)*
 
-![Planck Movie](Zx_Planck_Movie.png)  
+![Planck Movie](/Image/Zx_Planck_Movie.png)  
 *Figure 5: Z(x) oscillations at 10^-35 m. Spacetime discrete. Time emerges from zeta phase*  
 *Run: [Button pic5](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic5)*
 
 **Key Results:** G = 6.674e-11, alpha^-1=137.036, Lambda = 1.1e-122 — all with 0 free parameters
 
 ## 5. Energy Flow T01 and Coincidence Problem
-![T01](Zx_t01.png)  
+![T01](/Image/Zx_t01.png)  
 *Figure 2: Energy density T00 and energy flow T01 from Z(x). Local flow explains SH0ES vs Planck discrepancy*  
 *Run: [Button pic6](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic6)*
 
 ## 6. Planck Bridge t12: Where Constants Freeze
-![t12](Zx_t12.png)  
+![t12](/Image/Zx_t12.png)  
 *Figure 6: At t12 ~ 10^-36 s, Z(12) = 1.2 freezes G, alpha, Lambda. End of Inflation*  
 *Run: [Button pic7](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic7)*
 
 ## 7. Riemann Zeros = Foundation of Reality
-![zeros](Zx_zeros.png)  
+![zeros](/Image/Zx_zeros.png)  
 *Figure 7: First 6 zeros on critical line Re(s) = 1/2 generate all 6 quantum wells*  
 *Run: [Button pic8](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=pic8)*
 
 ## 8. The Complete Film: From Zeros to Universe
 **Zx_movie.mp4** - 60 seconds. Back View. Riemann Beat Audio.  
-*Run: [Button mp4](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/blob/main/Zx_all.ipynb?target=mp4)*
+*Run: [Button mp4](https://colab.research.google.com/github/jabri62018/Zx_RieOS_v1.1/Data/blob/main/Zx_all.ipynb?target=mp4)*
 
 **One-Click Notebook**: [`Zx_all.ipynb`](Zx_all.ipynb) generates all 6 CSV tables + 8 PNG figures + 1 MP4 film with zero parameters.
 
